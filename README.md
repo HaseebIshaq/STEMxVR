@@ -45,8 +45,8 @@ Ensure you have the following installed:
 ---
 
 ## 🎬 **Demo & Screenshots**
-📌 *[Add screenshots or GIFs of the VR environment here]*  
-📺 *[Provide a YouTube link or video demo if available]*
+📌 *[Coming Soon]*  
+📺 *[Coming Soon]*
 
 ---
 
