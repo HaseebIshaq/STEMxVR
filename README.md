@@ -1,6 +1,6 @@
 # 🌟 STEMxVR: Virtual Chemistry Lab
 
-🚀 **VR-Based Chemistry Lab using Unity & Meta Quest Pro**  
+🚀 **VR-Based Chemistry Lab using Unity & Meta Quest pro**  
 A cutting-edge virtual chemistry lab designed to provide an **interactive, immersive, and risk-free** learning experience for students. Built using **Unity, C#, and Blender**, this project simulates real-world chemistry experiments in VR.
 
 ---
